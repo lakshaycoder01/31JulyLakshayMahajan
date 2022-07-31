@@ -7,4 +7,7 @@ We can use express to convert this into an GET api to return data back to UI abo
 
 Another extension that can be made to this is to store this data in mongodb(for large amount of data) or redis cluster for (fast retreival on runtime)
 
+
+to run this project first use command `npm i`
+
 run the project with command `node getData.js`
